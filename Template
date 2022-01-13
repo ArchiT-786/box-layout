@@ -1,1 +1,57 @@
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="newstyle.css">
+</head>
+<body>
+    <div class="col-1 bg1 new">
+        <div class="col-2 bg1 new"></div>
+        <div class="col-3 bg1 new"></div>
+        <div class="col-4 bg1 new"></div>
+        <div class="col-5 bg1 new"></div>
+        <div class="col-6 bg1 new"></div>
+    </div>
+    <div class="col-1 bg1 new">
+        <div class="col-2 bg1 new"></div>
+        <div class="col-3 bg1 new"></div>
+        <div class="col-6 bg1 new"></div>
+        <div class="col-7 bg1 new"></div>
+         <div class="col-7 bg1 new"></div>
+         <div class="col-7 bg1 new"></div>
+         <div class="col-3 bg1 new"></div>
+    </div>
+    <div class="col-1 bg1 new">
+        <div class="col-2 bg1 new"></div>
+        <div class="col-9 bg1 new"></div>
+        <div class="col-8 bg1 new"></div>
+        <div class="col-3 bg1 new"></div>
+        
+    </div>
+    <div class="col-1 bg1 new">
+        <div class="col-3 bg1 new"></div>
+        <div class="col-10 bg2 new"></div>
+        <div class="col-10 bg2 new"></div>
+        <div class="col-10 bg2 new"></div>
+        <div class="col-10 bg2 new"></div>
+        <div class="col-10 bg2 new"></div>
+        <div class="col-10 bg2 new"></div>
+        <div class="col-10 bg2 new"></div>
+        <div class="col-10 bg2 new"></div>
+        <div class="col-10 bg2 new"></div>
+        <div class="col-10 bg2 new"></div>
+        <div class="col-10 bg2 new"></div>
+        <div class="col-10 bg2 new"></div>
+        <div class="col-10 bg2 new"></div>
+        <div class="col-10 bg2 new"></div>
+        <div class="col-10 bg2 new"></div>
+        <div class="col-11 bg1 new"></div>
+        <div class="col-11 bg1 new"></div>
+        <div class="col-11 bg1 new"></div>
+        <div class="col-3 bg1 new"></div>
+    </div>
+</body>
+</html>
