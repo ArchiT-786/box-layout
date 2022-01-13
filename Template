@@ -9,30 +9,31 @@
 </head>
 <body>
     <div class="col-1 bg1 new">
-        <div class="col-2 bg1 new"></div>
-        <div class="col-3 bg1 new"></div>
-        <div class="col-4 bg1 new"></div>
-        <div class="col-5 bg1 new"></div>
-        <div class="col-6 bg1 new"></div>
+        <div class="col-2 bg1 new">Logo</div>
+        <div class="col-3 bg1 new">Navigation</div>
+        <div class="col-3 bg1 new">Heade/Banner</div>
+        <div class="col-4 bg1 new">Side Bar</div>
+        <div class="col-5 bg1 new">Body Area</div>
+        <div class="col-6 bg1 new">Footer</div>
     </div>
     <div class="col-1 bg1 new">
-        <div class="col-2 bg1 new"></div>
-        <div class="col-3 bg1 new"></div>
-        <div class="col-6 bg1 new"></div>
-        <div class="col-7 bg1 new"></div>
-         <div class="col-7 bg1 new"></div>
-         <div class="col-7 bg1 new"></div>
-         <div class="col-3 bg1 new"></div>
+        <div class="col-2 bg1 new">Logo Navigation</div>
+        <div class="col-3 bg1 new">Header/Banner</div>
+        <div class="col-6 bg1 new">Intro Text Area</div>
+        <div class="col-7 bg1 new">Box 1</div>
+         <div class="col-7 bg1 new">Box 2</div>
+         <div class="col-7 bg1 new">Box 3</div>
+         <div class="col-3 bg1 new">Footer</div>
     </div>
     <div class="col-1 bg1 new">
-        <div class="col-2 bg1 new"></div>
-        <div class="col-9 bg1 new"></div>
-        <div class="col-8 bg1 new"></div>
-        <div class="col-3 bg1 new"></div>
+        <div class="col-2 bg1 new">Logo</div>
+        <div class="col-9 bg1 new">Header/Banner</div>
+        <div class="col-8 bg1 new">Body Area</div>
+        <div class="col-3 bg1 new">Footer</div>
         
     </div>
     <div class="col-1 bg1 new">
-        <div class="col-3 bg1 new"></div>
+        <div class="col-3 bg1 new">Logo Navigation</div>
         <div class="col-10 bg2 new"></div>
         <div class="col-10 bg2 new"></div>
         <div class="col-10 bg2 new"></div>
@@ -48,10 +49,10 @@
         <div class="col-10 bg2 new"></div>
         <div class="col-10 bg2 new"></div>
         <div class="col-10 bg2 new"></div>
-        <div class="col-11 bg1 new"></div>
-        <div class="col-11 bg1 new"></div>
-        <div class="col-11 bg1 new"></div>
-        <div class="col-3 bg1 new"></div>
+        <div class="col-11 bg1 new">Box 1</div>
+        <div class="col-11 bg1 new">Box 2</div>
+        <div class="col-11 bg1 new">Box 3</div>
+        <div class="col-3 bg1 new">Footer</div>
     </div>
 </body>
 </html>
