@@ -1,0 +1,122 @@
+*{margin: 0;box-sizing: border-box;}
+.color{
+    background-color: rgba(0, 0, 255,0.2);
+}
+.header{
+    height: 10vh;
+    border: 1px solid black;
+    position: sticky;
+    top: 0px;
+    background-color: white;
+}
+.f{
+    width: 60%;height: 200vh;
+    border: 1px solid black;
+    position:relative;
+    left:300px;
+    z-index: -1;
+    background-color: white;
+}
+.texta{text-align: center;padding-top: 10px;}
+.textc{font-size: large;padding-left: 40px;padding-top: 10px;}
+.f1{
+    height:90vh;width:19%;
+    border: 1px solid black;
+    position:fixed;
+    top: 70px;
+    z-index: -1;
+    font-weight: 1000;
+}
+.f1m{
+    height:30vh;width:17%;
+    border: 1px solid black;
+    position:fixed;
+    top: 70px;left: 83%;
+    z-index: -1;
+    font-weight: 1000;
+    background-size:cover;
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/6/63/7_Up_-_You_like_it%2C_it_likes_you%2C_1948.jpg);
+}
+.g{
+    height:30vh;width:17%;
+    border: 1px solid black;
+    position:fixed;
+    top: 270px;left: 83%;
+    z-index: -1;
+    font-weight: 1000;
+    background-size:cover;
+    background-image:url(https://www.audi.com/content/dam/ci/Guides/Communication_Media/Advertisements/02_Andwendungsbeispiele/audi-ci-communication-media-advertisements-example3_V2.png?imwidth=2400)
+}
+.g1{
+    height:30vh;width:17%;
+    border: 1px solid black;
+    position:fixed;
+    top: 470px;left: 83%;
+    z-index: -1;
+    font-weight: 1000;
+    background-size:cover;
+    background-image:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcxHgIPEvuONvZxCygDum9ssv37vhKVQiJZJikHi249A8uT7pF95nRCcjCV-pw4autD0E&usqp=CAU)
+}
+.p{
+    width: 30px;height: 30px;
+    border: 1px solid black;
+    border-radius: 50%;
+    position: absolute;
+    top: 10px;
+    background-size: 50px 50px;
+    background-image: url(https://scontent.fdel1-2.fna.fbcdn.net/v/t39.30808-6/271883053_961752231086439_6247213212717819907_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=X-TqVbUtY4IAX_CL_Da&_nc_ht=scontent.fdel1-2.fna&oh=00_AT_CttZAvdU7ubfjHietnKOhiN9de10AVrnl-VLd71w7rw&oe=61F68D61);
+    background-size: 30px 30px;
+}
+
+
+.icona{
+    width: 50px;height: 50px;
+    border: 1px solid black;
+    border-radius: 50%;
+    position: absolute;
+    top: 5px;
+    background-size: 50px 50px;
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/2021_Facebook_icon.svg/1200px-2021_Facebook_icon.svg.png);
+}
+.iconb{
+    width: 250px;height: 40px;
+    border: 1px solid black;
+    border-radius: 40px 40px;
+    position: absolute;
+    top: 10px;
+    left: 70px;
+    background-color: white;
+    
+}
+.text{
+    text-align: center;
+    font-size: 4rem;
+    color: blue;
+}
+.textb{padding-left: 75%;}
+.iconc{
+    width: 50px;height: 50px;
+    border: 1px solid black;
+    border-radius: 50%;
+    position: absolute;
+    top: 5px;left: 70%;
+    background-size: 50px 50px;
+    background-image: url(https://scontent.fdel1-2.fna.fbcdn.net/v/t39.30808-6/271883053_961752231086439_6247213212717819907_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=X-TqVbUtY4IAX_CL_Da&_nc_ht=scontent.fdel1-2.fna&oh=00_AT_CttZAvdU7ubfjHietnKOhiN9de10AVrnl-VLd71w7rw&oe=61F68D61);
+}
+.i{
+    left: 80%;
+    background-image: url(https://p7.hiclipart.com/preview/196/843/764/facebook-messenger-computer-icons-clip-art-call-icon.jpg);
+}
+.ii{
+    left: 90%;
+    background-image:url(https://prefive.com/wp-content/uploads/2020/12/sed-23-512_8914.png);
+}
+.ta{padding-top: 10px;}
+.tb{padding-top: 15px;}
+.tc{padding-top: 20px;}
+.td{padding-top: 25px;}
+.te{padding-top: 30px;}
+.tf{padding-top: 35px;}
+.tg{padding-top: 40px;}
+.th{padding-top: 45px;}
+.ti{padding-top: 50px;}

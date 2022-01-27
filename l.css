@@ -1,0 +1,158 @@
+*{margin: 0;box-sizing: border-box;}
+.color{
+    background-color: rgba(0, 0, 255,0.2);
+}
+.header{
+    height: 10vh;
+    border: 1px solid black;
+    position: sticky;
+    top: 0px;
+    background-color: white;
+}
+.desa{
+    height: 52px;
+    width: 52px;
+    border: 1px solid black;
+    position: relative;
+    top: 5px;left: 5px;
+    background-size: 52px 52px;
+    background-image: url(https://cdn-icons-png.flaticon.com/512/174/174857.png);
+}
+.desb{
+    width: 250px;height: 40px;
+    border: 1px solid black;
+    border-radius: 10px 10px;
+    position: absolute;
+    top: 10px;
+    left: 70px;
+    background-color: white;
+}
+.t1{
+    padding-left: 100px;
+}
+.desc{
+    height: 52px;
+    width: 75px;
+    border: 1px solid white;
+    position: absolute;
+    top: 5px;left: 40%;
+    background-size: 75px 52px;
+    background-image: url(data:image/png;base64,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);
+}
+.t2{
+    padding-top: 35px;padding-left: 15px;
+}
+.desd{
+    height: 52px;
+    width: 85px;
+    border: 1px solid white;
+    position: absolute;
+    top: 5px;left: 47%;
+    background-size: 85px 52px;
+    background-image: url(https://icons-for-free.com/iconfiles/png/512/linkedin+network+users+icon-1320184664350339756.png);
+}
+.t3{
+    padding-top: 35px;padding-left: 0px;
+    font-size: 15px;
+}
+.dese{
+    height: 52px;
+    width: 75px;
+    border: 1px solid rgb(255, 243, 243);
+    position: absolute;
+    top: 5px;left: 54%;
+    background-size: 75px 52px;
+    background-image: url(https://cdn0.iconfinder.com/data/icons/linkedin-ui-colored/48/JD-14-512.png);
+}
+.t4{
+    padding-top: 35px;padding-left: 15px;
+}
+.desf{
+    height: 52px;
+    width: 75px;
+    border: 1px solid rgb(255, 255, 255);
+    position: absolute;
+    top: 5px;left: 61%;
+    background-size: 75px 52px;
+    background-image: url(https://icons-for-free.com/iconfiles/png/512/inbox+message+notification+icon-1320184664211347385.png);
+}
+.t5{
+    padding-top: 33px;padding-left: 3px;
+}
+.desg{
+    height: 52px;
+    width: 85px;
+    border: 1px solid rgb(255, 255, 255);
+    position: absolute;
+    top: 5px;left: 68%;
+    background-size:80px 52px;
+    background-image: url(https://www.clipartmax.com/png/middle/2-29162_notification-free-internet-website-icon-vector-linkedin-circle-logo-png.png);
+}
+.t6{
+    padding-top: 35px;padding-left: 0px;
+}
+.l{
+    width: 60%;height: 200vh;
+    border: 1px solid black;
+    position:relative;
+    left:300px;
+    z-index: -1;
+    background-color: white;
+}
+
+.l1{
+    height:80vh;width:19%;
+    border: 1px solid black;
+    border-radius: 10px 10px;
+    position:fixed;
+    top: 70px;left: 1%;
+    z-index: -1;
+    font-weight: 1000;
+}
+.des1{
+    height: 50px;
+    border: 1px solid black;
+    border-radius: 10px 10px;
+    background-size: 100% 50px;
+    background-image: url(https://media-exp1.licdn.com/dms/image/C5616AQFl4H79EM5SZw/profile-displaybackgroundimage-shrink_350_1400/0/1628240601399?e=1648684800&v=beta&t=-ie7q1Dz5janXDTJrp8_RdaHWAOEOyj8FPcgq2vuskM);
+}
+.des2{
+    width: 70px;height: 70px;
+    border: 1px solid black;
+    border-radius: 50%;
+    position: absolute;
+    top: 10px;left: 80px;
+    background-size: 70px 70px;
+    background-image: url(https://media-exp1.licdn.com/dms/image/C5603AQEMUslSn2xOIg/profile-displayphoto-shrink_800_800/0/1639727034569?e=1648684800&v=beta&t=40mzJiGAcTXQBMtgtJCs5NNgH92Vdww1eAssw2rKju0);
+}
+.tede{
+    padding-top: 35px;font-size: large;text-align: center;
+}
+.tede1{
+    padding-top: 10px;font-size: small;text-align: center;
+}
+.l1m{
+    height:50vh;width:17%;
+    border: 1px solid black;
+    position:fixed;
+    top: 70px;left: 83%;
+    z-index: -1;
+    border-radius: 10px 10px;
+    background-size:cover;
+    /* background-image: url(https://upload.wikimedia.org/wikipedia/commons/6/63/7_Up_-_You_like_it%2C_it_likes_you%2C_1948.jpg); */
+}
+.tede2{
+    padding-top: 20px;font-family: 'Times New Roman', Times, serif;
+}
+.tede3{
+    padding-top: 30px;font-family: 'Times New Roman', Times, serif;
+}
+.tede4{
+    padding-top: 35px;font-family: 'Times New Roman', Times, serif;
+}
+.tede5{
+    padding-top: 40px;font-family: 'Times New Roman', Times, serif;
+}
+.tede6{
+    padding-top: 20px;font-family: 'Times New Roman', Times, serif;
+}
